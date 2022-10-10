@@ -2,8 +2,8 @@
 
 ## S3 bucket URL
 
-- http://aws-for-js-practitioner.s3-website-us-east-1.amazonaws.com/
+- http://aws-for-js-practitioner.s3-website-eu-west-1.amazonaws.com/
 
 ## CloudFront
 
-- https://d2mea1v4ijfmoe.cloudfront.net/
+- https://d1t533ukpfai4z.cloudfront.net
