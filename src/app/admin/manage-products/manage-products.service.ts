@@ -33,9 +33,7 @@ export class ManageProductsService extends ApiService {
     const url = this.getUrl('import', 'import');
 
     return this.http.get<string>(url, {
-      params: {
-        name: fileName,
-      },
+      params: { fileName },
     });
   }
 }
